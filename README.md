@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZAHAIRA JAADA</h1>
 <h3 align="center">A passionate AI enthusiast from Morocco, deeply committed to the fields of artificial intelligence, data science, problem-solving, and web/mobile development.</h3>
-<img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
+<img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
 - 🌱 I’m currently learning **Data science, Machine learning**
 
 <h3 align="left">Connect with me:</h3>
