@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZAHAIRA JAADA</h1>
-<h3 align="center">A passionate AI enthusiast from Morocco, deeply committed to the fields of artificial intelligence, data science, problem-solving, and web/mobile development.</h3>
-- 🌱 I’m currently learning **Data science, Machine learning**
-
-👩‍💻 Software Engineer | Full-Stack & AI Developer
-Passionate about building modern, scalable web applications using Next.js, React, and Spring Boot, and exploring generative AI for innovative projects.
-🚀 Focused on performance, UX optimization, and microservices architecture.
+<h2>👩‍💻 Software Engineer | Full-Stack & AI Developer</h2>
+<h3 align="center">Passionate about building modern, scalable web applications using Next.js, React, and Spring Boot, and exploring generative AI for innovative projects.</h3>
+- 🌱 Focused on performance, UX optimization, and microservices architecture.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
