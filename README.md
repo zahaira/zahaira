@@ -2,6 +2,10 @@
 <h3 align="center">A passionate AI enthusiast from Morocco, deeply committed to the fields of artificial intelligence, data science, problem-solving, and web/mobile development.</h3>
 - 🌱 I’m currently learning **Data science, Machine learning**
 
+👩‍💻 Software Engineer | Full-Stack & AI Developer
+Passionate about building modern, scalable web applications using Next.js, React, and Spring Boot, and exploring generative AI for innovative projects.
+🚀 Focused on performance, UX optimization, and microservices architecture.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zahaira-jaada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahaira jaada" height="30" width="40" /></a>
