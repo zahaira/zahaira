@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZAHAIRA JAADA</h1>
-<h3 align="center">👩‍💻 Software Engineer | Full-Stack & AI Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack & AI Developer</h3>
 <h3 align="center">Passionate about building modern, scalable web applications using Next.js, React, and Spring Boot, and exploring generative AI for innovative projects.</h3>
 - 🌱 Focused on performance, UX optimization, and microservices architecture.
 
